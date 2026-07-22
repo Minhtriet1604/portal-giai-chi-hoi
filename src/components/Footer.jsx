@@ -10,8 +10,8 @@ export default function Footer() {
         </div>
         <div>
           <p className="font-bold">Liên hệ BTC</p>
-          <p className="mt-2 text-sm text-slate-300">Email: ...@gmail.com</p>
-          <p className="text-sm text-slate-300">Hotline: 0123456789</p>
+          <p className="mt-2 text-sm text-slate-300">Email: bantruyenthongpaleithuen@gmail.com</p>
+          <p className="text-sm text-slate-300">Hotline: 0987654321</p>
         </div>
         {/* <div>
           <p className="font-bold">Màu giải đấu</p>
